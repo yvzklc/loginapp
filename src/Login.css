@@ -19,7 +19,7 @@ div{
 .container input{
     border-radius: 15px;
     width: 15vw;
-    height: 4vh;
+    height: 3.3vh;
     background-color: rgba(255, 255, 255, 0.322);
     border: none;
     
@@ -54,7 +54,7 @@ footer{
 }
 footer .icons{
   color: white;
-  font-size: 26px;
+  font-size: 22px;
   padding: 14px;
   border-radius: 50%;
   background-color: rgba(0, 0, 0, 0.61);
